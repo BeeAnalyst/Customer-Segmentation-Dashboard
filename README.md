@@ -4,16 +4,12 @@
 
 This project is a **Customer Segmentation Analysis dashboard** built to understand customer demographics,their behavior, and distribution across different categories. This dashboard provides insights into customer age,  gender, their income, profession, region, and the segment distribution.
 
-
 ## Objective
-
 The main goal of this project is to:
-
 - Understand customer demographics and behavior
 - Analyze customer distribution across regions and segments
 - Identify patterns in income, age, and profession
-
-
+- 
 ## Key Insights
 
 - **Total Customers:** 500  
@@ -36,8 +32,6 @@ The main goal of this project is to:
 ### Growth Trend:
 - Customer growth shows fluctuations over time with periods of increase and decline
 
-
-
 ## Dashboard Features
 
 - Interactive filters (Region, Gender, Customer Segment, Age Group)
@@ -46,16 +40,12 @@ The main goal of this project is to:
 - Pie chart for gender distribution
 - Line chart showing customer growth trend over time
 
-
-
 ## Tools Used
 
 - Power BI
 - Data Visualization
 - Data Modelling
 - Data Cleaning & Transformation
-
-
 
 ## Business Value
 
@@ -65,3 +55,7 @@ This dashboard helps organizations:
 - Identify key target segments
 - Improve marketing strategies
 - Make data-driven business decisions
+
+## Preview
+https://github.com/BeeAnalyst/Customer-Segmentation-Dashboard/commit/b93499db9cd83b6e5afd9ac533381ff4c0e50f24
+>Click Link above to view dashbord
