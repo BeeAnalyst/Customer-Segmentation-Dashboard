@@ -4,7 +4,6 @@
 
 This project is a **Customer Segmentation Analysis dashboard** built to understand customer demographics,their behavior, and distribution across different categories. This dashboard provides insights into customer age,  gender, their income, profession, region, and the segment distribution.
 
----
 
 ## Objective
 
@@ -14,7 +13,6 @@ The main goal of this project is to:
 - Analyze customer distribution across regions and segments
 - Identify patterns in income, age, and profession
 
----
 
 ## Key Insights
 
@@ -38,7 +36,7 @@ The main goal of this project is to:
 ### Growth Trend:
 - Customer growth shows fluctuations over time with periods of increase and decline
 
----
+
 
 ## Dashboard Features
 
@@ -48,15 +46,16 @@ The main goal of this project is to:
 - Pie chart for gender distribution
 - Line chart showing customer growth trend over time
 
----
+
 
 ## Tools Used
 
 - Power BI
 - Data Visualization
+- Data Modelling
 - Data Cleaning & Transformation
 
----
+
 
 ## Business Value
 
